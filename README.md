@@ -3,11 +3,11 @@ template-js-tools
 
 [![NPM Version](http://img.shields.io/npm/v/template-js-tools.svg?style=flat)](https://www.npmjs.com/package/template-js-tools)
 
-Template description
+template-desc
 
 ## Demo
 
-[Online Template](https://www.olrix.net/tools/template/)
+[Online Template](https://www.olrix.net/tools/template-demo-page/)
 
 ## With npm
 
