@@ -38,7 +38,7 @@ const { Template } = require("template-js-tools");
 or
 
 ```javascript
-<script src="https://cdn.jsdelivr.net/gh/simetrio/template-js-tools@1.0.0/template.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/template-js-tools@1.0.0/lib/template.min.js"></script>
 ```
 
 ## Usage
